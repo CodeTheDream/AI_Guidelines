@@ -213,3 +213,6 @@ Security Logging and Monitoring Failures
   30. Log Access to Sensitive Data
   31. Do Not Log Inappropriate Data
 </pre></details>
+<br>
+
+*Note: An alternate order for these guidelines—using the SWAT grouping—is Authentication, Session Management, Input/Output Handling and Logging. This is just a logical order, not from any list. Use it if you like.*

@@ -109,7 +109,7 @@ There is also an [OWASP Top 10](https://owasp.org/www-project-top-ten/) list.
 
 Both lists reference [CWE](https://cwe.mitre.org/index.html).
 If you use the CWE IDs to find the intersection of these security weaknesses,
-the result is the CTD 30-Point Security Audit. 
+the result is the CTD 30-Point Security Standard. 
 
 <details open><summary><code>CTD 30-Point Security Standard</code></summary>
 <br>
@@ -162,7 +162,7 @@ Access Control
 
 ## CTD 30-Point Security Standard ordered by OWASP Top 10
 
-Below is the CTD 30-Point Security Audit checklist ordered by the [OWASP Top 10](https://owasp.org/www-project-top-ten/).
+Below is the CTD 30-Point Security Standard checklist ordered by the [OWASP Top 10](https://owasp.org/www-project-top-ten/).
 
 <details><summary><code>CTD 30-Point Security Standard ordered by OWASP Top 10</code></summary>
 <br>

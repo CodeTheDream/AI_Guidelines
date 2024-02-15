@@ -86,7 +86,7 @@ Access Control
 
 ## OWASP Top 10
 
-There is also an [OWASP Top 10](https://owasp.org/www-project-top-ten/) list. 
+There is also an [OWASP Top 10](https://owasp.org/www-project-top-ten/) list. The OWASP Top 10 is a regularly updated list of the most critical security risks to web applications, including issues like injection, broken authentication, and sensitive data exposure. It helps provide awareness and guidance to address these vulnerabilities.
 
 <details><summary><code>OWASP Top 10, 2021</code></summary>
 

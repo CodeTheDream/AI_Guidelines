@@ -140,7 +140,7 @@ The following advice can be used whether you're using Devise or not.
 
 ###### Absolute Timeout
 
-Implement an absolute session timeout so people are not logged on for to long in one session. This can prevent session from being stolen.
+Implement an absolute session timeout so people are not logged on for too long in one session. This can prevent session from being stolen.
 
 ```ruby
 class ApplicationController < ActionController::Base

@@ -2,7 +2,7 @@
 
 ## Intro
 
-When building Rails apps, prioritizing security from the start can prevent problems later on. Set and forget instead of neglect and regret. It's easy but developers lack awareness. This guide outlines a few easy ways to boost your project's security. It can help protect your users and their sensitive data.
+When building Rails apps, prioritizing security from the start can prevent problems later on. It's easy but developers lack awareness. This guide outlines a few easy ways to boost your project's security. It can help protect your users and their sensitive data.
 
 ## Visible Security
 
